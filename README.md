@@ -2,13 +2,13 @@
 <h1 align="center">  <img src="https://raw.githubusercontent.com/nacalej/nacalej/master/name.gif" alt="Nacarith Sequera" /> </h1>
 
  <h2>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you!
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>¡Hola, me alegro de verte!
 </h2>
 
 
-<h3 align="center">A passionate full stack developer from Venezuela</h3>
+<h3 align="center">Soy una apasionada desarrollador web full stack de Venezuela</h3>
 
-- 🌱 I’m currently learning **HTML, JavaScript, ReactJS, Redux, NodeJS, Express, PostgreSQL, Sequelize, CSS**
+- 🌱 Actualmente estoy cursando el bootcamp Henry, donde me encuentro aprendiendo tecnologías como:  **HTML, JavaScript, ReactJS, Redux, NodeJS, Express, PostgreSQL, Sequelize, CSS**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nacalej&show_icons=true&locale=en&layout=compact" alt="nacalej" /></p>
 
