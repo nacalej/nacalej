@@ -1,5 +1,5 @@
 
-
+<!--
  <h2>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>¡Hola, me alegro de verte!
 </h2>
@@ -29,5 +29,23 @@
 <a href="https://www.linkedin.com/in/nacarith-sequera/" target="_blank" rel="noopener noreferrer">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nacarith-sequera/" height="30" width="40" /> 
  </a>
+ -->
+ 
+ 
+
+ <h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>¡Hola, me alegro de verte!
+</h1>
+Soy Nacarith Sequera, una apasionada desarrollador web full stack de Venezuela. Actualmente estoy cursando el bootcamp Henry, donde me encuentro aprendiendo tecnologías como:
+
+- 👨‍💻 TypeScript, JavaScript
+- ⚙️ ReactJS
+- 👁️ SASS, CSS
+- 💽 MySQL, SQL, PostgreSQL
+
+## Contacto
+- Email: nacariths@gmail.com
+- [@nacalejs](https://twitter.com/nacalejs) en Twitter
+- <a href="https://www.linkedin.com/in/nacarith-sequera/" target="_blank" rel="noopener noreferrer">Nacarith Sequera</a> en Linkedin
 
 </p>
