@@ -26,6 +26,8 @@
 
 <a href="https://twitter.com/nacalejs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nacalejs" height="30" width="40" /></a>
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nacarith-sequera/" height="30" width="40" /> <a href="https://www.linkedin.com/in/nacarith-sequera/" target="_blank"></a>
+<a href="https://www.linkedin.com/in/nacarith-sequera/" target="_blank" rel="noopener noreferrer">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nacarith-sequera/" height="30" width="40" /> 
+ </a>
 
 </p>
