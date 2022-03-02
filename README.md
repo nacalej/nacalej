@@ -46,6 +46,6 @@ Soy Nacarith Sequera, una apasionada desarrollador web full stack de Venezuela. 
 ## Contacto
 - Email: nacariths@gmail.com
 - [@nacalejs](https://twitter.com/nacalejs) en Twitter
-- [nacarith-sequera](https://www.linkedin.com/in/nacarith-sequera/) en Linkedin
+- [Linkedin] (https://www.linkedin.com/in/nacarith-sequera/)
 
 </p>
