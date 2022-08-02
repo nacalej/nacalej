@@ -31,28 +31,23 @@
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nacarith-sequera/" height="30" width="40" /> 
  </a>
  -->
- 
- <details>
-  <summary>:zap: About me!</summary>
-
-### Software developer 💻!!
-
-- 👾  I am very curious and that is why you start studying programming
-
-</details>
-
-<br />
- 
-
- <h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>¡Hola, me alegro de verte!
+ <h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>¡Hola, me alegro de verte!, <img src="./src/wave.gif" width="30px">. Soy Nacarith Sequera, T.S.U en Informática. 
 </h1>
-Soy Nacarith Sequera, una apasionada desarrollador web full stack de Venezuela. Actualmente estoy cursando el bootcamp Henry, donde me encuentro aprendiendo tecnologías como:
+ <details>
+  <summary>:zap: Acerca de mí:</summary>
+
+### Desarrollador Web Full Stack 💻!!
 
 - 👨‍💻 TypeScript, JavaScript
 - ⚙️ ReactJS
 - 👁️ SASS, CSS
 - 💽 MySQL, SQL, PostgreSQL
+
+</details>
+
+<br />
+
 
 ## Contacto
 - Email: nacariths@gmail.com
