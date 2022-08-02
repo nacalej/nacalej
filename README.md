@@ -32,22 +32,39 @@
  </a>
  -->
  <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>¡Hola, me alegro de verte!, <img src="./src/wave.gif" width="30px">. Soy Nacarith Sequera, T.S.U en Informática. 
+  ¡Hola, me alegro de verte!, <img src="./assets/saludo.gif" width="30px">. Soy Nacarith Sequera, T.S.U en Informática. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h1>
  <details>
   <summary>:zap: Acerca de mí:</summary>
 
-### Desarrollador Web Full Stack 💻!!
+### Desarrollador Web Full Stack.💻
 
-- 👨‍💻 TypeScript, JavaScript
-- ⚙️ ReactJS
-- 👁️ SASS, CSS
-- 💽 MySQL, SQL, PostgreSQL
+- 👀 Soy muy curiosa, y por eso decidí estudiar programación.
+- 🤓 Me interesa mucho la Inteligencia Artificial.
+- 🌱 Actualmente estoy realizando un curso de Python, en Udemy.
 
 </details>
 
 <br />
 
+
+<h3 align="center">📂 Últimos proyectos:</h3>
+
+<tr>
+<td>
+
+
+</td>
+<td> <h4 align="left"> <a href="https://github.com/mctechnology17/gm" target="_blank"><code>Movie Mark - Ecommerce</code></a> </h4>
+  <details>
+    <summary>Ver más...</summary>
+
+    
+
+  </details> </td>
+</tr>
+<tr>
+<td>
 
 ## Contacto
 - Email: nacariths@gmail.com
