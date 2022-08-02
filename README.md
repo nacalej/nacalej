@@ -4,6 +4,16 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>¡Hola, me alegro de verte!
 </h2>
 
+<details>
+  <summary>:zap: About me!</summary>
+
+### Software developer 💻!!
+
+- 👾  I am very curious and that is why you start studying programming
+
+</details>
+
+<br />
 
 <h3 align="center">Soy Nacarith Sequera, una apasionada desarrollador web full stack de Venezuela.</h3>
 
