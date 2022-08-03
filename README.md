@@ -69,6 +69,6 @@
 ## Contacto
 - Email: nacariths@gmail.com
 - [@nacalejs](https://twitter.com/nacalejs) en Twitter
-- [nacarith-sequera](https://www.linkedin.com/in/nacarith-sequera/) en Linkedin
+- [Nacarith Sequera](https://www.linkedin.com/in/nacarith-sequera/) en Linkedin
 
 </p>
