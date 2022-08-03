@@ -61,7 +61,11 @@
 
     - Proyecto grupal realizado para el Bootcamp Henry, el mismo permite visualizar películas en estreno; mejor calificadas, el usuario puede agregar al carrito de compras: comestibles, y los boletos de la película que el mismo haya seleccionado, puede iniciar sesión en la página, para realizar el pago de su pedido a través de MercadoPago. Además, cuenta con un panel de administración, el cual permite administrar todas las películas disponibles, el stock de los comestibles, y visualizar todas las compras realizadas. Las tecnologías que utilizamos fueron: ReactJS, Redux, SASS, para el Front End, NodeJS (Express) con PostgreSQL (conectado con Sequelize), para el Back End. 
 
-    ![Movie Mark] (assets/Movie-Mark.png)
+  <div>
+   <p style = 'text-align:center;'>
+     <img src="./assets/Movie-Mark.png" alt="JuveYell" width="300px">
+    </p>
+ </div>
 
   </details> </td>
 </tr>
