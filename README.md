@@ -72,5 +72,6 @@
 - [Nacarith Sequera](https://www.linkedin.com/in/nacarith-sequera/) en Linkedin
 - Puedes encontrarme en Linkedin a través del [NS](blank:#https://www.linkedin.com/in/nacarith-sequera/)
 enlace
+- Este es un link hacia [la página web de ANSES](blank:#https://www.anses.gob.ar/) que abre el enlace en otra pestaña nueva y permite mantener la navegación en nuestro portal.
 
 </p>
