@@ -70,8 +70,7 @@
 - Email: nacariths@gmail.com
 - [@nacalejs](https://twitter.com/nacalejs) en Twitter
 - [Nacarith Sequera](https://www.linkedin.com/in/nacarith-sequera/) en Linkedin
- - [NS](https://www.linkedin.com/in/nacarith-sequera/){:target="_blank" rel="noopener"}
  --- [NS](blank:#https://www.linkedin.com/in/nacarith-sequera/)
-
+[la página web de ANSES](blank:#https://www.anses.gob.ar/)
 
 </p>
