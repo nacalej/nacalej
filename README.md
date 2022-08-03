@@ -70,7 +70,7 @@
 - Email: nacariths@gmail.com
 - [@nacalejs](https://twitter.com/nacalejs) en Twitter
 - [Nacarith Sequera](https://www.linkedin.com/in/nacarith-sequera/) en Linkedin
- - [NS](https://www.linkedin.com/in/nacarith-sequera/){:target="_blank"}
+ - [NS](https://www.linkedin.com/in/nacarith-sequera/){:target="_blank" rel="noopener"}
 
 
 </p>
