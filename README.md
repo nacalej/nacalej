@@ -72,7 +72,7 @@
 - [Nacarith Sequera](https://www.linkedin.com/in/nacarith-sequera/) en Linkedin
 - Puedes encontrarme en Linkedin a través del [NS](blank:#https://www.linkedin.com/in/nacarith-sequera/)
 enlace
-- <a href="https://www.linkedin.com/in/nacarith-sequera/" target="_blank" rel="noopener noreferrer"></a>
+- <a href="https://www.linkedin.com/in/nacarith-sequera/" target="_blank" rel="noopener noreferrer">Linkedin</a>
 
 
 </p>
