@@ -40,7 +40,7 @@
 ### Desarrollador Web Full Stack.💻
 
 - 👀 Soy muy curiosa, y por eso decidí estudiar programación.
-- 🤓 Me interesa mucho la Inteligencia Artificial.
+- 🤓 Soy colaborativa, organizada, detallista, y me gusta mucho trabajar en equipo.
 - 🌱 Actualmente estoy realizando un curso de Python, en Udemy.
 
 </details>
@@ -63,8 +63,8 @@
 
   <div>
    <p style = 'text-align:center;'>
-     <img src="./assets/Movie-Mark.png" alt="Movie Mark" width="300px">
-     <img src="./assets/Movies - Movie Mark.png" alt="Movie Mark" width="300px">
+     <img src="./assets/Movie-Mark.png" alt="Movie Mark" width="500px">
+     <img src="./assets/Movies - Movie Mark.png" alt="Movie Mark" width="500px">
 
     </p>
  </div>
