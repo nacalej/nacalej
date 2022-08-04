@@ -63,7 +63,9 @@
 
   <div>
    <p style = 'text-align:center;'>
-     <img src="./assets/Movie-Mark.png" alt="JuveYell" width="300px">
+     <img src="./assets/Movie-Mark.png" alt="Movie Mark" width="300px">
+     <img src="./assets/Movies - Movie Mark.png" alt="Movie Mark" width="300px">
+
     </p>
  </div>
 
