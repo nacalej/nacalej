@@ -58,7 +58,7 @@
 <td> <h4 align="left"> <a href="https://www.youtube.com/watch?v=j1T8vVoPyCU&ab_channel=NacarithSequera" target="_blank"><code>📂 Movie Mark - Ecommerce.</code></a> </h4>
   <details>
     <summary>Ver más...</summary>
-
+ <br />
   <p align = "justify">Proyecto grupal realizado para el Bootcamp Henry, el mismo permite visualizar películas en estreno; mejor calificadas, el usuario puede agregar al carrito de compras: comestibles, y los boletos de la película que el mismo haya seleccionado, puede iniciar sesión en la página, para realizar el pago de su pedido a través de MercadoPago. Además, cuenta con un panel de administración, el cual permite administrar todas las películas disponibles, el stock de los comestibles, y visualizar todas las compras realizadas. Las tecnologías que utilizamos fueron: ReactJS, Redux, SASS, para el Front End, NodeJS (Express) con PostgreSQL (conectado con Sequelize), para el Back End. </p>
 
   <p>Link del repo: <a href="https://github.com/CandelaPedelhez/Moviemark"> Movie Mark </a></p>
@@ -82,14 +82,14 @@
 <td> <h4 align="left"> <code>📂 Pokémon App.</code> </h4>
   <details>
     <summary>Ver más...</summary>
-
+  <br />
   <p align = "justify">Desarrollo de una SPA (Single-Page Application), usando ReactJS para el Front-End, y Redux para gestionar el estado de la aplicación, los componentes fueron desarrollados con CSS, sin el uso de librerías externas. La aplicación  de Pokémons permite ordenar y filtrar los datos traídos de una API, y de una base de datos local, también permite crear personajes (Pokémons) propios, y mostrar el detalle los mismos.. </p>
 
   <!-- <p>Link del repo: <a href="https://github.com/CandelaPedelhez/Moviemark"> Movie Mark </a></p> -->
 
   <div>
    <p style = 'text-align:center;'>
-     <img src="./assets/homeHome.png" alt="Pokémon app home" width="500px">
+     <img src="./assets/homeHome.jpg" alt="Pokémon app home" width="500px">
      <img src="./assets/detalle.png" alt="Detail Pokémon" width="500px">
   </p>
  </div>
