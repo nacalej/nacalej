@@ -37,7 +37,7 @@
 
 ### Acerca de mí:
 
-###### Desarrollador Web Full Stack.💻
+#### Desarrollador Web Full Stack.💻
 
 - 👀 Soy muy curiosa, y por eso decidí estudiar programación.
 - 🤓 Soy colaborativa, organizada, detallista, y me gusta mucho trabajar en equipo.
