@@ -34,7 +34,7 @@
  <h1 align="center">
   ¡Hola, me alegro de verte!, <img src="./assets/saludo.gif" width="30px">. Soy Nacarith Sequera, T.S.U en Informática. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h1>
- <details>
+ <details details-open>
   <summary>:zap: Acerca de mí:</summary>
 
 ### Desarrollador Web Full Stack.💻
