@@ -32,7 +32,7 @@
  </a>
  -->
  <h1 align="center">
-  <img src="./assets/saludo.gif" width="30px">¡Me alegro de verte!, soy Nacarith Sequera, T.S.U en Informática. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  <img src="./assets/saludo.gif" width="30px"> ¡Me alegro de verte!, soy Nacarith Sequera, T.S.U en Informática. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h1>
 
 ### Acerca de mí:
