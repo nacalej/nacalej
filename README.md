@@ -37,12 +37,9 @@
 
 ### Acerca de mí:
 
-#### Desarrollador Web Full Stack.💻
+#### Programadora Web Full Stack.💻
 
-- 🤓 Soy colaborativa, organizada, detallista, y me gusta mucho trabajar en equipo.
-- 👀 Soy muy curiosa, y por eso decidí estudiar programación.
-- 🌱 Actualmente estoy realizando un curso de Python, en Udemy.
-
+- Soy Técnico Superior Universitario en Informática, con experiencia en Front-end y Back-end. He participado en proyectos de desarrollo aplicando tecnologías como: JavaScript, ReactJS/Redux, NodeJS, Express, PostgreSQL y Git. Colaboré en un proyecto grupal, donde logré ejercitar mis capacidades sociales y técnicas, haciendo uso de la metodología ágil Scrum. Me destaco por ser una persona con habilidades blandas como la comunicación, la escucha activa y el trabajo en equipo.
 
 
 <br />
@@ -53,13 +50,20 @@
 <tr>
 <td>
 
-
 </td>
 <td> <h4 align="left"> <a href="https://www.youtube.com/watch?v=j1T8vVoPyCU&ab_channel=NacarithSequera" target="_blank"><code>📂 Movie Mark - Ecommerce.</code></a> </h4>
-  <details>
-    <summary>Ver más...</summary>
  <br />
-  <p align = "justify">Proyecto grupal realizado para el Bootcamp Henry, el mismo permite visualizar películas en estreno; mejor calificadas, el usuario puede agregar al carrito de compras: comestibles, y los boletos de la película que el mismo haya seleccionado, puede iniciar sesión en la página, para realizar el pago de su pedido a través de MercadoPago. Además, cuenta con un panel de administración, el cual permite administrar todas las películas disponibles, el stock de los comestibles, y visualizar todas las compras realizadas. Las tecnologías que utilizamos fueron: ReactJS, Redux, SASS, para el Front End, NodeJS (Express) con PostgreSQL (conectado con Sequelize), para el Back End. </p>
+  <p align = "justify">Aplicación que tenía como objetivo, agilizar la
+compra de tickets y golosinas, previo a asistir
+al cine. Participación en un equipo de desarrollo ágil utilizando Scrum, con reuniones diarias con nuestro Project Manager y sprints semanales con nuestro Product Owner, para presentar los avances del desarrollo. Diseño y creación de la interfaz para visualizar películas en estreno y mejor calificadas. Autenticación y registro de usuarios, para realizar el pago del pedido (boletos y golosinas)  a través de MercadoPago.
+
+ Tecnologías utilizadas para el desarrollo:
+- Front End: ReactJS, Redux, SASS.
+- Back End: NodeJS (Express), Sequelize.
+- Base de datos: PostgreSQL.
+- Herramientas: Git, GitHub, Trello, Slack.
+- Agile: Scrum.
+ </p>
 
   <p>Link del repo: <a href="https://github.com/CandelaPedelhez/Moviemark"> Movie Mark </a></p>
 
@@ -69,7 +73,7 @@
      <img src="./assets/Movies - Movie Mark.png" alt="Movie Mark" width="500px">
   </p>
  </div>
-  </details> </td>
+  </td>
 </tr>
 <!-- <tr> -->
 <!-- <td> -->
@@ -80,10 +84,14 @@
 
 </td>
 <td> <h4 align="left"> <code>📂 Pokémon App.</code> </h4>
-  <details>
-    <summary>Ver más...</summary>
-  <br />
-  <p align = "justify">Desarrollo de una SPA (Single-Page Application), usando ReactJS para el Front-End, y Redux para gestionar el estado de la aplicación, los componentes fueron desarrollados con CSS, sin el uso de librerías externas. La aplicación  de Pokémons permite ordenar y filtrar los datos traídos de una API, y de una base de datos local, también permite crear personajes (Pokémons) propios, y mostrar el detalle los mismos.. </p>
+  <p align = "justify">Diseño y desarrollo de una SPA (Single-Page Application) para listar los pokémones tanto los que son consumidos de la API: https://pokeapi.co/, como los que existen en la base de datos, permitiendo paginar los resultados, buscar por nombre, filtrar por tipo de Pokémon, ordenar por fuerza ascendente-descendentemente y ordenar alfabéticamente.
+
+  Tecnologías utilizadas para el desarrollo:
+- Front End: ReactJS, Redux, CSS.
+- Back End: NodeJS (Express), Sequelize.
+- Base de datos: PostgreSQL.
+- Herramientas: Git, GitHub.
+ </p>
 
   <!-- <p>Link del repo: <a href="https://github.com/CandelaPedelhez/Moviemark"> Movie Mark </a></p> -->
 
@@ -93,7 +101,7 @@
      <img src="./assets/detalle.png" alt="Detail Pokémon" width="500px">
   </p>
  </div>
-  </details> </td>
+ </td>
 </tr>
 
 ## Contacto
