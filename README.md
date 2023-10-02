@@ -54,6 +54,35 @@
 <td>
 
 </td>
+<td> <h4 align="left"> <a href="https://github.com/nacalej/star_wars_upskilling" target="_blank"><code>📂 Star wars - Microservicios.</code></a> </h4>
+ <br />
+  <p align = "justify">Proyecto individual desarrollado durante el curso Upskilling Back End del Bootcamp Henry, con el propósito de implementar una plataforma de microservicios básica.
+   El proyecto está conformado por 5 servicios pequeños, autónomos e interconectados utilizando peticiones HTTP. Cada microservicio permite crear, obtener, actualizar y eliminar información sobre personajes, planetas y películas de la saga Star wars a través del microservicio Gateway como punto de entrada, a su vez, el microservicio de base de datos gestiona la conexión enviando y recuperando información desde y hacia la base de datos.
+
+ Tecnologías utilizadas para el desarrollo:
+- Back End: NodeJS (Express), Mongoose.
+- Base de datos: MongoDB.
+- Herramientas: Docker, Docker Compose.
+ </p>
+
+  <p>Link del repo: <a href="https://github.com/nacalej/star_wars_upskilling"> Star wars </a></p>
+
+
+  </td>
+</tr>
+<!-- <tr> -->
+<!-- <td> -->
+
+<tr>
+<td>
+
+
+</td>
+
+<tr>
+<td>
+
+</td>
 <td> <h4 align="left"> <a href="https://www.youtube.com/watch?v=j1T8vVoPyCU&ab_channel=NacarithSequera" target="_blank"><code>📂 Movie Mark - Ecommerce.</code></a> </h4>
  <br />
   <p align = "justify">Aplicación que tenía como objetivo, agilizar la
@@ -106,6 +135,15 @@ al cine. Participación en un equipo de desarrollo ágil utilizando Scrum, con r
  </div>
  </td>
 </tr>
+
+<h2 width="100%">❤ Pasatiempos: </h2>
+<ul>
+  <li>Entrenar 💪🏽🏋🏽‍♀️</li>
+   <li>Tejer 🧶</li>
+  <li>Jugar videojuegos 🎮</li>
+  <li>Senderismo 🥾</li>
+  <li>Escuhar música 📻🎶❤️</li>
+</ul>
 
 ## Contacto
 - Email: nacariths@gmail.com
