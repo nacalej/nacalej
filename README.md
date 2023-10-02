@@ -31,9 +31,11 @@
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nacarith-sequera/" height="30" width="40" /> 
  </a>
  -->
- <h1 align="center">
-  <img src="./assets/saludo.gif" width="30px"> ¡Me alegro de verte!, soy Nacarith Sequera, Programadora web Full Stack. <img align="center" src="./assets/nsProfile.png" alt="Avatar Nacarith Sequera" height="200" width="200" align="right"/>
-</h1>
+ <div> <h1 align="center">  ¡Me alegro de verte!, soy Nacarith Sequera, Programadora web Full Stack. </h1>
+ <div> <img align="center" src="./assets/nsProfile.png" alt="Avatar Nacarith Sequera" height="200" width="200" align="right"/></div>
+
+</div>
+ 
 
 ### Acerca de mí:
 
