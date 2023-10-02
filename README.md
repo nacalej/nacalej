@@ -32,7 +32,7 @@
  </a>
  -->
  <h1 align="center">
-  <img src="./assets/saludo.gif" width="30px"> ¡Me alegro de verte!, soy Nacarith Sequera, Programadora web Full Stack. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <img align="center" src="./assets/nsProfile.png" alt="Avatar Nacarith Sequera" height="200" width="200" align="right"/>
+  <img src="./assets/saludo.gif" width="30px"> ¡Me alegro de verte!, soy Nacarith Sequera, Programadora web Full Stack. <img align="center" src="./assets/nsProfile.png" alt="Avatar Nacarith Sequera" height="200" width="200" align="right"/>
 </h1>
 
 ### Acerca de mí:
