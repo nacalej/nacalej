@@ -39,9 +39,8 @@
 
 ### Acerca de mí:
 
-#### Programadora Web Full Stack.💻
 
-* <p align = "justify"> Soy Técnico Superior Universitario en Informática, con experiencia en Front-end y Back-end. He participado en proyectos de desarrollo aplicando tecnologías como: JavaScript, ReactJS/Redux, NodeJS, Express, PostgreSQL y Git. Colaboré en un proyecto grupal, donde logré ejercitar mis capacidades sociales y técnicas, haciendo uso de la metodología ágil Scrum. Me destaco por ser una persona con habilidades blandas como la comunicación, la escucha activa y el trabajo en equipo.
+* <p align = "justify"> Soy una apasionada programadora web full stack de Venezuela, graduada como Técnico Superior Universitario en Informática, con experiencia en Front-end y Back-end. He participado en proyectos de desarrollo aplicando tecnologías como: JavaScript, ReactJS/Redux, NodeJS, Express, PostgreSQL, MongoDB, Docker y Git. Colaboré en un proyecto grupal, donde logré ejercitar mis capacidades sociales y técnicas, haciendo uso de la metodología ágil Scrum. Me destaco por ser una persona con habilidades blandas como la comunicación, la escucha activa y el trabajo en equipo.
 </p>
 
 
@@ -142,7 +141,7 @@ al cine. Participación en un equipo de desarrollo ágil utilizando Scrum, con r
    <li>Tejer 🧶</li>
   <li>Jugar videojuegos 🎮</li>
   <li>Senderismo 🥾</li>
-  <li>Escuhar música 📻🎶❤️</li>
+  <li>Escuchar música 📻🎶❤️</li>
 </ul>
 
 ## Contacto
