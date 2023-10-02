@@ -1,6 +1,6 @@
 
 
- <div> <h1 align="center">  ¡Me alegro de verte!, mi nombre es Nacarith Sequera.👋</h1>
+ <div> <h1 align="center">¡Me alegro de verte!, mi nombre es Nacarith Sequera.👋</h1>
  <div align="center"> <img align="center" src="./assets/nsProfile.png" alt="Avatar Nacarith Sequera" height="300" width="300""/></div>
 
 </div>
@@ -9,7 +9,7 @@
 ### Acerca de mí:
 
 
-* <p align = "justify"> Soy una apasionada programadora web Full Stack, graduada como Técnico Superior Universitario en Informática, con experiencia en Front-end y Back-end. He participado en proyectos de desarrollo aplicando tecnologías como: ```JavaScript, ReactJS/Redux, NodeJS, Express, PostgreSQL, MongoDB, Docker y Git```. Colaboré en un proyecto grupal, donde logré ejercitar mis capacidades sociales y técnicas, haciendo uso de la metodología ágil ```Scrum```. Me destaco por ser una persona con habilidades blandas como la comunicación, la escucha activa y el trabajo en equipo.
+* <p align = "justify"> Soy una apasionada programadora web Full Stack, graduada como Técnico Superior Universitario en Informática, con experiencia en Front-end y Back-end. He participado en proyectos de desarrollo aplicando tecnologías como: JavaScript, ReactJS/Redux, NodeJS, Express, PostgreSQL, MongoDB, Docker y Git. Colaboré en un proyecto grupal, donde logré ejercitar mis capacidades sociales y técnicas, haciendo uso de la metodología ágil Scrum. Me destaco por ser una persona con habilidades blandas como la comunicación, la escucha activa y el trabajo en equipo.
 </p>
 
 
@@ -25,7 +25,7 @@
 <td> <h4 align="left"> <a href="https://github.com/nacalej/star_wars_upskilling" target="_blank"><code>📂 Star wars - Microservicios.</code></a> </h4>
  <br />
   <p align = "justify">Proyecto individual desarrollado durante el curso Upskilling Back End del Bootcamp Henry, con el propósito de implementar una plataforma de microservicios básica.
-   El proyecto está conformado por 5 servicios pequeños, autónomos e interconectados utilizando peticiones HTTP. Cada microservicio permite ```crear, obtener, actualizar y eliminar``` información sobre personajes, planetas y películas de la saga Star wars a través del microservicio Gateway como punto de entrada, a su vez, el microservicio de base de datos gestiona la conexión enviando y recuperando información desde y hacia la base de datos.
+   El proyecto está conformado por 5 servicios pequeños, autónomos e interconectados utilizando peticiones HTTP. Cada microservicio permite crear, obtener, actualizar y eliminar información sobre personajes, planetas y películas de la saga Star wars a través del microservicio Gateway como punto de entrada, a su vez, el microservicio de base de datos gestiona la conexión enviando y recuperando información desde y hacia la base de datos.
 
  Tecnologías utilizadas para el desarrollo:
 - Back End: NodeJS (Express), Mongoose.
