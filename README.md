@@ -24,7 +24,7 @@
 </td>
 <td> <h4 align="left"> <a href="https://github.com/nacalej/star_wars_upskilling" target="_blank"><code>📂 Star wars - Microservicios.</code></a> </h4>
  <br />
-  * <p align = "justify">Proyecto individual desarrollado durante el curso Upskilling Back End del Bootcamp Henry, con el propósito de implementar una plataforma de microservicios básica.
+  <p align = "justify">Proyecto individual desarrollado durante el curso <strong>Upskilling Back End</strong> del Bootcamp Henry, con el propósito de implementar una plataforma de microservicios básica.
    El proyecto está conformado por 5 servicios pequeños, autónomos e interconectados utilizando peticiones HTTP. Cada microservicio permite crear, obtener, actualizar y eliminar información sobre personajes, planetas y películas de la saga Star wars a través del microservicio Gateway como punto de entrada, a su vez, el microservicio de base de datos gestiona la conexión enviando y recuperando información desde y hacia la base de datos.
 
  Tecnologías utilizadas para el desarrollo:
