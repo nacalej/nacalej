@@ -32,7 +32,7 @@
  </a>
  -->
  <div> <h1 align="center">  ¡Me alegro de verte!, soy Nacarith Sequera, Programadora web Full Stack. </h1>
- <div> <img align="center" src="./assets/nsProfile.png" alt="Avatar Nacarith Sequera" height="200" width="200" align="right"/></div>
+ <div> <img align="center" src="./assets/nsProfile.png" alt="Avatar Nacarith Sequera" height="200" width="200""/></div>
 
 </div>
  
