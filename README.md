@@ -1,6 +1,6 @@
 
 
- <div> <h1 align="center">  ¡Me alegro de verte!, soy Nacarith Sequera, Programadora web Full Stack. </h1>
+ <div> <h1 align="center">  ¡Me alegro de verte!, mi nombre es Nacarith Sequera.👋</h1>
  <div align="center"> <img align="center" src="./assets/nsProfile.png" alt="Avatar Nacarith Sequera" height="300" width="300""/></div>
 
 </div>
